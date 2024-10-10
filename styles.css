@@ -1,4 +1,3 @@
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,7 +5,6 @@ body {
     background-color: #e0f7fa;
 }
 
-/* Header */
 header {
     display: flex;
     justify-content: space-between;
@@ -56,7 +54,6 @@ nav ul li a:hover {
     background-color: #009688;
 }
 
-/* Section 1: Estación */
 #section1 {
     display: flex;
     justify-content: space-between;
@@ -99,7 +96,6 @@ nav ul li a:hover {
     max-width: 300px;
 }
 
-/* Section 2: Coche eléctrico */
 #section2 {
     display: flex;
     justify-content: space-between;
@@ -136,7 +132,6 @@ nav ul li a:hover {
     background-color: #004d40;
 }
 
-/* Footer */
 footer {
     background-color: #00796b;
     color: white;
